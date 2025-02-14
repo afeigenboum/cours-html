@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title("Gojan et Telba :")
-st.write("Gojan et Telba forment un groupe de rappeurs français. Originaire du 95 et plus précisément de Franconville, ils commencent à se forger un nom dans le monde du rap français sur l'année 2024-2025. Ce nom, ils se le forgent notamment grâce à leurs projets :violet[La Direction] et :grey[DESERT EAGLE MUSIC] qu'ils sortent en 2024. Il a récemment sorti un projet intitulé :grey[DESERT EAGLE MUSIC] dont vous trouverez un extrait plus bas :notes:.")
+st.write("Gojan et Telba forment un groupe de rappeurs français. Originaire du 95 et plus précisément de Franconville, ils commencent à se forger un nom dans le monde du rap français sur l'année 2024-2025. Ce nom, ils se le forgent notamment grâce à leurs projets :violet[La Direction] et :grey[DESERT EAGLE MUSIC] qu'ils sortent en 2024. Ils ont récemment sorti un projet intitulé :grey[DESERT EAGLE MUSIC] dont vous trouverez un extrait plus bas :notes:.")
 st.title("Dernier projet : ")
 st.image( "https://i.scdn.co/image/ab67616d0000b2733dde14d52c834efb4f14b126",caption = "Album : DESERET EAGLE MUSIC")
 st.title("Intro de DESERT EAGLE MUSIC :")
